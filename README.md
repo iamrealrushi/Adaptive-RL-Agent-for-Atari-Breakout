@@ -17,5 +17,5 @@ The code will work on versions of python that are below 3.13.
 | `evaluation.py`                   | Evaluates a trained model and visualizes performance |
 | `dqn_breakout_weights.weights.h5` | Saved weights after training                         |
 | `README.md`                       | Project overview and usage instructions              |
-| `report.txt`                      | List of Python dependencies                          |
+| `report.pdf`                      | List of Python dependencies                          |
 
